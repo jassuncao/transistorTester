@@ -1,4 +1,4 @@
-update=28/09/2016 22:34:25
+update=29/09/2016 07:24:24
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=valves
 LibName30=ja-transistors
 LibName31=ja-regul
 LibName32=ja_device
+LibName33=ja-display
